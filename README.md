@@ -3,7 +3,7 @@
 
 ### 当前工具列表
 - ##### [终端快捷翻译](./fy/README.md)
-
+    ![](./fy/Translate-demo.gif)
 
 ### 安装
 在项目根目录中运行 **install.sh** 文件

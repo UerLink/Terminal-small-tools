@@ -5,7 +5,10 @@ api地址：https://api.vvhan.com/fanyi.html
 
 感谢api的制作/所有者
 
-### 使用方式
+### 演示
+![](./Translate-demo.gif)
+
+### 安装方法
 1. 安装php环境
 ```bash
 sudo apt-get install php
