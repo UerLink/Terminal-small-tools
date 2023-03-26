@@ -1,7 +1,12 @@
 #! /bin/bash
+echo -e "\033[31m[卸载提示]\033[0m 卸载可能需要输入密码"
 sudo rm /usr/bin/fy
 echo -e "\033[31m[卸载提示]\033[0m 终端快捷翻译软链接已删除"
 echo -e "\033[31m[卸载提示]\033[0m 路径：/usr/bin/fy"
+sudo rm /usr/bin/run
+echo -e "\033[31m[卸载提示]\033[0m 终端快捷命令软链接已删除"
+echo -e "\033[31m[卸载提示]\033[0m 路径：/usr/bin/fun"
 sudo rm -rf /usr/local/Terminal-small-tools
 echo -e "\033[31m[卸载提示]\033[0m 终端小工具文件夹镜像已经删除"
 echo -e "\033[31m[卸载提示]\033[0m 路径：/usr/local/Terminal-small-tools"
+
