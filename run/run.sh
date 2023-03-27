@@ -60,6 +60,6 @@ else
 	  echo -e "$col1\t$col2\t$col3\t$col4"
 	done < $path
 	echo -e "\033[32m[提示]\033[0m \033[33m 运行命令：\033[0m run 编号"
-	echo -e "\033[32m[提示]\033[0m \033[33m 修改命令：\033[0m run updata"
+	echo -e "\033[32m[提示]\033[0m \033[33m 修改命令：\033[0m run update"
 fi
 
