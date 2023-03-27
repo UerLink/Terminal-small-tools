@@ -19,3 +19,8 @@ cd Terminal-small-tools
 
 ./install.sh
 ```
+
+### 使用方法
+```bash
+fy 要翻译的内容
+```

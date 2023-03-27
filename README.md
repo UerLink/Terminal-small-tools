@@ -16,3 +16,13 @@
 ```bash
 ./uninstall.sh
 ```
+
+### 运行失败解决
+1. 快捷翻译需要安装php环境
+```bash
+sudo apt-get install php
+```
+2. 快捷命令添加自定义命令后运行失败,请尝试添加 sudo 运行
+```bash
+sudo run 编号
+```
