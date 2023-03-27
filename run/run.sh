@@ -8,9 +8,9 @@ then
 	
 	if [ "$1" == "update" ]
 	then 
-		echo "\033[32m[提示]\033[0m \033[33m 格式要求：\033[0m 编号,名称,次数,命令"
-		echo "\033[32m[提示]\033[0m 表头“编号，名称，次数，命令”不能更改"
-		echo "\033[32m[提示]\033[0m \033[33m csv文件路径：\033[0m /usr/local/Terminal-small-tools/run/data.csv"
+		echo -e "\033[32m[提示]\033[0m \033[33m 格式要求：\033[0m 编号,名称,次数,命令"
+		echo -e "\033[32m[提示]\033[0m 表头“编号，名称，次数，命令”不能更改"
+		echo -e "\033[32m[提示]\033[0m \033[33m csv文件路径：\033[0m /usr/local/Terminal-small-tools/run/data.csv"
 	else
 		# 获得编号
 		code=$1
