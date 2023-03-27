@@ -18,5 +18,5 @@ run 编号
 
 ##### 修改快捷命令
 ```bash
-run update
+run help
 ```

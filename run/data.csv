@@ -1,2 +1,2 @@
-0,打开当前文件夹,nautilus .
-0,显示当前ip地址,ip address | grep inet
+打开当前文件夹,nautilus .
+打开系统设置,gnome-control-center
