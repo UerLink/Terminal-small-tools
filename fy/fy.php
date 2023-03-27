@@ -9,5 +9,5 @@ $decoded_data = json_decode($json_string, true);
 
 $fanyi = $decoded_data['data']['fanyi'];
 
-echo "\033[34m⇢\033[0m  $fanyi  \033[34m⇠ 翻译结果\033[0m";
+echo "\033[32m[翻译结果]\033[0m  \033[34m⇢\033[0m  $fanyi  \033[34m⇠\033[0m";
 ?>
