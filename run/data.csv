@@ -1,2 +1,3 @@
 打开当前文件夹,nautilus .
 打开系统设置,gnome-control-center
+修改自定义命令,sudo vim /usr/local/Terminal-small-tools/run/data.csv
